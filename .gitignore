@@ -1,0 +1,23 @@
+# Generated output
+ai-native-carousel.pdf
+ai-native-carousel_slide*.png
+linkedin-post.txt
+research.json
+companies.json
+edition.txt
+
+# Personal assets (not for public repo)
+charles_headshot.png
+brand-assets/
+brand-assets.zip
+
+# Cached logos
+logos/
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# Python
+__pycache__/
+*.pyc
